@@ -13,7 +13,7 @@
 
 <h2 align="left">Tech Stack:</h2>
 <div>
-<!-- 	
+	
 <img src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/python.org/python.svg" width="50" height="50" alt="Python" />
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" width="50" height="50" alt="MySQL" />
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" width="50" height="50" alt="PostgreSQL" />
@@ -28,7 +28,6 @@
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="50" height="50" alt="Vscode" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="50" height="50" alt="HTML" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="50" height="50" alt="CSS" />
-	 -->
 
 <h3 align="left">Connect with me:</h3> 
 <div align="left">
