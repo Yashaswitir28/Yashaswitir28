@@ -30,13 +30,6 @@
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="50" height="50" alt="CSS" />
 	 -->
 
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Python,git,postgres,mysql,css,html,windows,gitlab,vscode,excel,word,powerpint,powerbi" width="50%" height="50%"/>
-  </a>
-</p>
-</div>
-
 <h3 align="left">Connect with me:</h3> 
 <div align="left">
 <!-- <a href="https://www.linkedin.com/in/yashaswi-tirole/" target="_blank">
