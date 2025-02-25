@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashaswi Tirole</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Junior+Data+Analyst;Story+Telling;Data+visualizer;Nice+To+Meet+You+...&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Junior+Data+Analyst;Data+story+telling;Data+visualizer;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 - 👨‍💻 I'm a Data Analyst
