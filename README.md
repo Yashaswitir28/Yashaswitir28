@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Yashaswi Tirole</h1>
+<h1 align="center">Hi, I'm Yashaswi Tirole 👋</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Junior+Data+Analyst;Data+story+telling;Data+visualizer;Nice+To+Meet+You+...&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines="Data+Analyst;Data+story+telling;Data+visualizer;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 - 👨‍💻 I'm a Data Analyst
-- 🌱 I work a lot with Python, SQL, PowerBi.
-- 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
+- 🌱 With a strong foundation in Python, SQL, Power BI, and Microsoft Excel, I enjoy deriving meaningful insights from complex datasets..
 - 👯‍♀️ I like to analyse and figure out trends from data with others and learn more.
-- 📫 I do not write blog posts and my Twitter is mostly used when I'm bored or waiting for something.
-- ❓ Want to know more about me? You can always contact me via several social media!
-- 📫 How to reach me **yashaswitirole28@gmail.com**
+- 📫 Want to know more about me? You can find me on [LinkedIn](https://www.linkedin.com/in/yashaswi-tirole/), [GitHub](https://github.com/Yashaswitir28) or connect via email - **yashaswitirole28@gmail.com**
 
 <h2 align="left">Tech Stack:</h2>
 <div>
